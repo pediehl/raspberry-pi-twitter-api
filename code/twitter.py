@@ -23,19 +23,18 @@ twitter = Twython(
 )
 
 
- 
+
 while 1:
-        humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)                   
+        humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)
         if humidity is not None and temperature is not None:
-	   
+
            message  = "Raumklima"
            message  += " am: %s - " %datetime.now ().strftime ('%d.%m.%Y um %H:%M Uhr')
            message  += "Temp: %0.1f*C" % (temperature)
            message  += " Luftfeuchte: %0.1f%%" % (humidity)
-           time.sleep(60)
+           time.sleep(600)
            twitter.update_status(status=message)
            print("Tweeted: %s" % message)
 
         else:
                         print('Fehler beim Einlesen der Daten. Starte einen weiteren Versuch!')
-
