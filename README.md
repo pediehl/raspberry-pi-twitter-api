@@ -28,7 +28,7 @@ Testen Sie, was Sie brauchen, indem Sie die folgenden Befehle eingeben:
 
 Dies bringt dich zur Eingabeaufforderung ohne Fehler zurück. Wenn du einen Fehler bekommst No module named X, dann prüfe, ob du den Befehl richtig eingegeben hast.
 
-## Raspbian Strechtch Lite: Twython für Python 3 installieren
+## Raspbian Stretch Lite: Twython für Python 3 installieren
 ### (Raspberry Pi Zero und alle älteren Modelle Raspberry Pi)
 
 Zunächst bring dein System auf den aktuellen Stand:
