@@ -7,9 +7,9 @@
 * Kabel
 * Steckbrett
 
-> für Raspbian Lite beachte unbedingt die passende Anleitung
+> für Raspbian Stretch Lite beachte unbedingt die passende Anleitung
 
-## Twython für Python 3 installieren (Raspbian Jessie)
+## Twython für Python 3 installieren (Raspbian Stretch)
 Wir installieren Twython für Python 3.
 Du musst online sein, um Pakete zu installieren.
 
@@ -28,7 +28,7 @@ Testen Sie, was Sie brauchen, indem Sie die folgenden Befehle eingeben:
 
 Dies bringt dich zur Eingabeaufforderung ohne Fehler zurück. Wenn du einen Fehler bekommst No module named X, dann prüfe, ob du den Befehl richtig eingegeben hast.
 
-## Raspbian Jessie Lite: Twython für Python 3 installieren
+## Raspbian Strechtch Lite: Twython für Python 3 installieren
 ### (Raspberry Pi Zero und alle älteren Modelle Raspberry Pi)
 
 Zunächst bring dein System auf den aktuellen Stand:
