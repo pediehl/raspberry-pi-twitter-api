@@ -86,7 +86,7 @@ Fülle die application details aus. Du musst einen application namen, Beschreibu
 
 Klicke jetzt auf den 'Keys and Access Tokens' Reiter und erstelle einen access token.
 
-Wenn du einmal den "reate an Access Token button" bestätigt hast. Lade die Seite neu und du solltest deine access token details sehen.
+Wenn du einmal den "create an Access Token button" bestätigt hast. Lade die Seite neu und du solltest deine access token details sehen.
 
 Erstelle eine neue Datei und füge die API-Schlüssel
 ein.
