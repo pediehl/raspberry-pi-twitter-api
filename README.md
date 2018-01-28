@@ -166,3 +166,5 @@ while 1:
 
 ```
 Wenn alles passt, sollte nach 10 Minuten der Tweet erscheinen.
+
+![](images/tweet.png)
